@@ -4,6 +4,7 @@
 #How to use
 #Link : https://kushaljgec2025.github.io/Augmented-Reality-in-AR.js/
 <br> 
+#STEPS:
 <h4>1.Open this link in your mobile phone </h4>
 <h4>2.Open this Photo in a big screen or print it out in a surface </h4>
 
