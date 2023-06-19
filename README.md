@@ -3,18 +3,12 @@
 <br>
 #How to use
 <br>
-[website](https://kushaljgec2025.github.io/Augmented-Reality-in-AR.js/)
+This site was built using [GitHub Pages](https://kushaljgec2025.github.io/Augmented-Reality-in-AR.js/)
 <br>
 <h3> Open in Mobile for better experience <h3>
 <br>
 #Highlights
 <h2>A transparent box is appearing on the marker (hiro) black and white box </h2>
-<h3>(Side view)</h3>
-<br>
-img< src="https://github-production-user-asset-6210df.s3.amazonaws.com/108950724/246839510-a25f4760-ec59-4ee4-a01d-e9cb503e1ed6.png">
-<br>
-<h3>(bottom View)</h3>
-<br>
-img<src="https://github-production-user-asset-6210df.s3.amazonaws.com/108950724/246839470-d0cde587-7e34-49e2-a569-bbd217f1941f.png">
 
+https://github.com/kushaljgec2025/Augmented-Reality-in-AR.js/assets/108950724/cee3354e-ce30-4a54-be8b-ccfe342d6819
 
