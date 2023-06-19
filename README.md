@@ -7,7 +7,7 @@
 <h4>Open this link in your mobile phone </h4>
 <h4>Open this Photo in a big screen or print it out in a surface </h4>
 
-<br>![Pattern-hiro](https://github.com/kushaljgec2025/Augmented-Reality-in-AR.js/assets/108950724/ff739f4b-ba7a-46d5-bfc6-2a206338f495| width=100)
+<br>![Pattern-hiro](https://github.com/kushaljgec2025/Augmented-Reality-in-AR.js/assets/108950724/ff739f4b-ba7a-46d5-bfc6-2a206338f495|width=100)
 
 
 <h4>Keep the mobile camera view on this pattern </h4>
