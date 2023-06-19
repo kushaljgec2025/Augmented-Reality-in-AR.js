@@ -1,12 +1,12 @@
 # Augmented-Reality-in-AR.js
-<h3>Marker Based Augmented Reality: A WEBAR using AR.js and Aframe</h3>
+<h3 align="center">Marker Based Augmented Reality: A WEBAR using AR.js and Aframe</h3>
 <br>
 #How to use
 <br>
-### You can find waether status of any city across the world using this [GitHub Pages](https://kushaljgec2025.github.io/Augmented-Reality-in-AR.js/)
+https://kushaljgec2025.github.io/Augmented-Reality-in-AR.js/
 
 <br>
-<h3> Open in Mobile for better experience <h3>
+<h3 align="center"> Open in Mobile for better experience <h3>
 <br>
 #Highlights
 <h2>A transparent box is appearing on the marker (hiro) black and white box </h2>
