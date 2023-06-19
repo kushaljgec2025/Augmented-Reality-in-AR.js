@@ -1,5 +1,5 @@
 # Augmented-Reality-in-AR.js
-<h1>Marker Based Augmented Reality </h1>
+<h3>Marker Based Augmented Reality </h3>
 #How to use
 [website](https://kushaljgec2025.github.io/Augmented-Reality-in-AR.js/)
 
