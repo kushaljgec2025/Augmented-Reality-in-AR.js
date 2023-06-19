@@ -6,7 +6,7 @@
 <br> 
 <h4>Open this link in your mobile phone </h4>
 <h4>Open this Photo in a big screen or print it out in a surface </h4>
-![Pattern-hiro](https://github.com/kushaljgec2025/Augmented-Reality-in-AR.js/assets/108950724/a8f2d3a0-376f-4ed7-ada0-4954f5be73e6)
+![Pattern-hiro]([https://github.com/kushaljgec2025/Augmented-Reality-in-AR.js/assets/108950724/a8f2d3a0-376f-4ed7-ada0-4954f5be73e6](https://github-production-user-asset-6210df.s3.amazonaws.com/108950724/246848598-a8f2d3a0-376f-4ed7-ada0-4954f5be73e6.png))
 
 <br>
 
