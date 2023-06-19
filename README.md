@@ -3,7 +3,8 @@
 <br>
 #How to use
 <br>
-This site was built using [GitHub Pages](https://kushaljgec2025.github.io/Augmented-Reality-in-AR.js/)
+### You can find waether status of any city across the world using this [GitHub Pages](https://kushaljgec2025.github.io/Augmented-Reality-in-AR.js/)
+
 <br>
 <h3> Open in Mobile for better experience <h3>
 <br>
