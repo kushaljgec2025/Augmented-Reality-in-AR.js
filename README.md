@@ -10,9 +10,11 @@
 #Highlights
 <h2>A transparent box is appearing on the marker (hiro) black and white box </h2>
 <h3>(Side view)</h3>
-img<src="https://github-production-user-asset-6210df.s3.amazonaws.com/108950724/246839510-a25f4760-ec59-4ee4-a01d-e9cb503e1ed6.png">
-
+<br>
+img< src="https://github-production-user-asset-6210df.s3.amazonaws.com/108950724/246839510-a25f4760-ec59-4ee4-a01d-e9cb503e1ed6.png">
+<br>
 <h3>(bottom View)</h3>
+<br>
 img<src="https://github-production-user-asset-6210df.s3.amazonaws.com/108950724/246839470-d0cde587-7e34-49e2-a569-bbd217f1941f.png">
 
 
