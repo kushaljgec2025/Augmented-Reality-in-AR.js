@@ -13,11 +13,24 @@
   <div id="roatebutton">
     <div id="rot" onclick="rotchange()">RotateX</div>
   </div>
+  <div id="range">
+    <label for="points">Opacity</label>
+    <input
+      type="range"
+      id="points"
+      name="points"
+      value="100"
+      min="0"
+      max="10"
+    />
+
+    <h1 id="opvalue">1</h1>
+  </div>
 
   <a-scene embedded arjs>
     <!-- Create your content here. just a box for now -->
 
-    <a-box position="0 0.5 0" opacity="0.9" color="blue" id="target">
+    <a-box position="0 0.5 0" color="blue" id="target">
       <a-animation
         id="anim"
         attribute="rotation"
@@ -44,4 +57,16 @@
     <!-- define a camera that will move according to the marker position -->
     <a-marker-camera preset="hiro"></a-marker-camera>
   </a-scene>
+  <script>
+    let slider = document.querySelector("[type=range]");
+    let div = document.querySelector("#target");
+
+    slider.addEventListener("input", (e) => {
+      let opac = e.target.value;
+      let opc = document.getElementById("opvalue");
+      let val = opac / 10;
+      opc.innerHTML = val;
+      div.setAttribute("opacity", val);
+    });
+  </script>
 </body>

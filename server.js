@@ -23,18 +23,4 @@ function rotchange() {
 
 }
 
-function sp() {
 
-
-    // if (document.getElementById("sphere").innerHTML == "Sphere") {
-    //     document.getElementById("target").style.display = "none";
-    //     document.getElementById("targets").style.display = "block";
-    //     document.getElementById("sphere").innerHTML = "Box";
-    // }
-    // else {
-    //     document.getElementById("target").style.display = "block";
-    //     document.getElementById("targets").style.display = "none";
-    //     document.getElementById("sphere").innerHTML = "Sphere";
-    // }
-
-}
