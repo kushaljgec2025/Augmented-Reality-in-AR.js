@@ -12,13 +12,13 @@ function colorchange() {
 
 }
 function rotchange() {
-    if (document.getElementById("rot").innerHTML == "RotateY") {
+    if (document.getElementById("rot").innerHTML == "RotateX") {
         document.getElementById("anim").setAttribute("to", '0 360 0');
-        document.getElementById("rot").innerHTML = "RotateX";
+        document.getElementById("rot").innerHTML = "RotateY";
     }
     else {
         document.getElementById("anim").setAttribute("to", '360 0 0');
-        document.getElementById("rot").innerHTML = "RotateY";
+        document.getElementById("rot").innerHTML = "RotateX";
     }
 
 }
