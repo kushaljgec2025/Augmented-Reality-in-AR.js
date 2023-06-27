@@ -1,4 +1,4 @@
-.arjs-loader {
+#arjs-loader {
   height: 100px;
   width: 100px;
   position: absolute;
@@ -9,9 +9,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 
-.arjs-loader div {
+#arjs-loader div {
   text-align: center;
   font-size: 1.25em;
   color: white;

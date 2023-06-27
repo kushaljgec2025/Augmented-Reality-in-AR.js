@@ -6,11 +6,11 @@
 <link rel="stylesheet" href="style.css" />
 <body style="margin: 0px; overflow: hidden">
   <script src="server.js"></script>
-  <div class="arjs-loader"></div>
+  <div id="arjs-loader" onclick="colorchange()"></div>
   <a-scene embedded arjs>
     <!-- Create your content here. just a box for now -->
 
-    <a-box position="0 0.5 0" material="opacity: 1; color:blue;">
+    <a-box position="0 0.5 0" material="opacity: 1; color:blue;" id="traget">
       <a-animation
         attribute="rotation"
         dur="3000"
