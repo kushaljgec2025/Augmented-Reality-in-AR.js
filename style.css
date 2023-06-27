@@ -1,10 +1,11 @@
-#arjs-loader {
+#col {
   height: 100px;
   width: 100px;
   position: absolute;
+  border-radius: 15px;
   top: 0;
-  left: 0;
-  background-color: rgba(0, 0, 0, 0.8);
+  right: 5px;
+  background-color: blue;
   z-index: 9999;
   display: flex;
   justify-content: center;
@@ -12,8 +13,45 @@
   cursor: pointer;
 }
 
-#arjs-loader div {
+#col div {
   text-align: center;
   font-size: 1.25em;
   color: white;
+}
+#col::after {
+  content: "Colour";
+  color: white;
+}
+#rot {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 110px;
+  right: 5px;
+  background-color: rgb(0, 0, 19);
+  border-radius: 15px;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  color: white;
+}
+#sphere {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 220px;
+  right: 5px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  color: rgb(67, 67, 67);
+}
+#target {
+  display: none;
 }
