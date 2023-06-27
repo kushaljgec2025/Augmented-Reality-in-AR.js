@@ -6,13 +6,11 @@
 
 <body style='margin : 0px; overflow: hidden;'>
   <a-scene embedded arjs>
-    <!-- create your content here. just a box for now -->
-<!--     <a-box position='0 0.5 0' material='opacity: 0.5;'></a-box> -->
-      <a-assets>
-            <a-asset-item id="animated-asset" src="https://raw.githubusercontent.com/nicolocarpignoli/nicolocarpignoli.github.io/master/ar-playground/models/CesiumMan.gltf"></a-asset-item>
-        </a-assets>
+    <!-- Create your content here. just a box for now -->
+    <a-box position='0 0.5 0' material='opacity: 0.5;'></a-box>
+      
 
-    <!-- define a camera which will move according to the marker position -->
+    <!-- define a camera that will move according to the marker position -->
     <a-marker-camera preset='hiro'></a-marker-camera>
   </a-scene>
 </body>
