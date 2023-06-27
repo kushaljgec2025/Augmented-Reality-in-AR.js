@@ -1,8 +1,18 @@
-.button1 {
-  width: 100px;
+.arjs-loader {
   height: 100px;
-  color: black;
-  cursor: pointer;
-  z-index: 100;
-  position: fixed;
+  width: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arjs-loader div {
+  text-align: center;
+  font-size: 1.25em;
+  color: white;
 }
